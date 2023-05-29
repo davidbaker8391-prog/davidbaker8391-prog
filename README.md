@@ -6,6 +6,12 @@
 
 <br />
 
+This is my address: <br/>
+skype😘: live:.cid.87702686344107cf
+<br />
+gmail 📨: popstar0126@gmail.com 
+<br />
+
 <p><img align="right" width="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <p>As a Full Stack Software Engineer with 9 years of professional background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the front end and Node.js/Express.js(Primary), Python/Django, PHP/Laravel, and Java for the back end.</p>
